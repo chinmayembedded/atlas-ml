@@ -1,6 +1,5 @@
-<!-- ![Alt text](./assets/atlas_ml_logo.png?raw=true "ATLAS ML LOGO") -->
 <p align="center">
-  <img src="./assets/atlas_ml_logo.png" alt="Description of Image">
+  <img src="./assets/atlas_ml_logo.png" alt="ATLAS ML LOGO">
 </p>
 
 
